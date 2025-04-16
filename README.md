@@ -5,18 +5,18 @@ This project provides an in-depth analysis of insurance claims data, covering as
 ## Project Structure
 The repository is organized into three main sections:
 
-1.  **`/Dataset/`**: Contains all data-related files.
-    * `/Raw Data/`: The original, unprocessed data files used in the project.
-    * `/Cleaned Data/`: Includes the final cleaned dataset (`Cleaned_Insurance_Claims_Data.xlsx`) used for analysis and the dashboard.
-    * `/Data Cleaning/`: Image showing the data cleaning steps.
+1.  **`Dataset`**: Contains all data-related files.
+    * `Raw Data`: The original, unprocessed data files used in the project.
+    * `Cleaned Data`: Includes the final cleaned dataset (`Cleaned_Insurance_Claims_Data.xlsx`) used for analysis and the dashboard.
+    * `Data Cleaning Process`: Image showing the data cleaning steps.
 
-2.  **`/Data Analysis Code/`**: Contains Jupyter Notebooks file for the detailed analysis. This section is divided into 7 parts, each focusing on a different analytical perspective.
+2.  **`Data Analysis Code`**: Jupyter Notebook file for the detailed analysis. This section is divided into 7 parts, each focusing on a different analytical perspective.
 
-3.  **`/Dashboard/`**: Includes both Python script and Jupyter Notebooks file and Python script to host the interactive Dash locally.
+3.  **`Dashboard`**: Includes both Python script and Jupyter Notebooks file and Python script to host the interactive Dash locally.
 
 ## Dataset
 
-The primary dataset utilized for the final analysis and dashboard visualization is `Cleaned_Insurance_Claims_Data.xlsx`, located within the `/Dataset/Cleaned Data/` directory. Details regarding the raw data sources and the cleaning methodology can be found in the `/Dataset/` subdirectories.
+The primary dataset utilized for the final analysis and dashboard visualization is `Cleaned_Insurance_Claims_Data.xlsx`, located within the `/Dataset/` directory. 
 
 ## Setup
 - Since each part was written by different people, please change the data link before running the file.
