@@ -25,7 +25,7 @@ This method runs the dashboard as a standalone web application, ensuring correct
 
 2.  **Navigate to the Dashboard Directory:**
     * Use the `cd` command to move into the folder containing the dashboard script (`dashboard.py`).
-    * Example (replace with the actual path on your machine):
+    * Example (replace with the actual path on your computer):
         ```bash
         cd D:\Study\3. CODE\1. Python_code_file\Big_Data\group_assignment\Dashboard
         ```
@@ -37,7 +37,7 @@ This method runs the dashboard as a standalone web application, ensuring correct
 4.  **Access the Dashboard URL:**
     * After the script runs successfully, it will start a local web server. Look for output in the terminal similar to this:
     ![image](https://github.com/user-attachments/assets/15c4d68c-6ed7-4a0a-8f64-79419c597253)
-    * Copy this full URL (e.g., `http://127.0.0.1:8051/`).
+    * Copy this full URL (e.g., `http://127.0.0.1:8050/`).
 
 5.  **View in Browser:**
     * Open your preferred web browser then paste the copied URL into the browser's address bar and press Enter.
