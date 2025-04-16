@@ -19,7 +19,7 @@ The repository is organized into three main sections:
 The primary dataset utilized for the final analysis and dashboard visualization is `Cleaned_Insurance_Claims_Data.xlsx`, located within the `/Dataset/Cleaned Data/` directory. Details regarding the raw data sources and the cleaning methodology can be found in the `/Dataset/` subdirectories.
 
 ## Setup
-To run the analysis code and the dashboard locally, ensure you have Python installed along with the necessary libraries. You can install the required packages using pip:
-Since each part was written by different people, please change the data link before running the file.
+- Since each part was written by different people, please change the data link before running the file.
+- To run the analysis code and the dashboard locally, ensure you have Python installed along with the necessary libraries. You can install the required packages using pip:
 ```bash
 pip install pandas numpy matplotlib seaborn plotly dash dash-bootstrap-components openpyxl
